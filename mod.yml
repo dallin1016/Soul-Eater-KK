@@ -34,6 +34,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+- name: itempic/item-043.imd
+  method: copy
+  source:
+  - name: itempic/item-043.imd
 - name: remastered/itempic/item-043.imd/-0.dds
   method: copy
   source:
